@@ -1,0 +1,5 @@
+{
+  "name": "Amazon ShotGen",
+  "description": "Professional Amazon-style product image generator that creates a full set of listing photos from a simple product name.",
+  "requestFramePermissions": []
+}
